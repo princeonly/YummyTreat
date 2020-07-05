@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Yummy Treat</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--Navigation menu-->
+    <string name="home">Home</string>
+    <string name="cake">Cake</string>
+    <string name="cup_cake">Cup Cake</string>
+    <string name="cookies">Cookies</string>
+    <string name="ice_cream">Ice Cream</string>
+    <string name="indian_dessert">Indian Dessert</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="banner_id">ca-app-pub-8158315839737160/8402695336</string>
+
+    <!--Menu on Homepage-->
+    <string name="recent_recipes_title">RECENT RECIPES </string>
+    <string name="reccent_added_recipes">Recently Added Recipes</string>
+    <string name="most_viewed_title">MOST VIEWED RECIPES </string>
+    <string name="most_viewed_recipes">Most Viewed Recipes</string>
+
+</resources>

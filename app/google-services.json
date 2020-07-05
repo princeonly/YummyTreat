@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "327092081395",
+    "firebase_url": "https://yummy-treat.firebaseio.com",
+    "project_id": "yummy-treat",
+    "storage_bucket": "yummy-treat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327092081395:android:b2845575d85e3236",
+        "android_client_info": {
+          "package_name": "com.kithnkin.yummytreat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327092081395-vtc39jqeol6s12lake61qb5g0rdv01e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzXYv-h_Wip9Js1CRYi7D1MtYnW4N4rZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
